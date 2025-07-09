@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>吊灯-开.png</file>
+        <file>吊灯-关.png</file>
+        <file>喂食.png</file>
+        <file>狗粮.png</file>
+        <file>led1.png</file>
+        <file>灯带.png</file>
+        <file>灯带1.png</file>
+        <file>背景图.png</file>
+        <file>led2.png</file>
+        <file>关门.png</file>
+        <file>加水.png</file>
+        <file>开门.png</file>
+        <file>不加水.png</file>
+        <file>logo.png</file>
+        <file>背景图1.png</file>
+        <file>健康.png</file>
+        <file>水滴.png</file>
+        <file>温度计.png</file>
+        <file>1.png</file>
+        <file>全雾化.png</file>
+        <file>关雾化.png</file>
+        <file>auto.png</file>
+        <file>手动.png</file>
+        <file>风扇.png</file>
+        <file>风扇(1).png</file>
+        <file>加热.png</file>
+        <file>加热(1).png</file>
+        <file>风扇(2).png</file>
+        <file>风扇(3).png</file>
+        <file>背景png</file>
+        <file>音乐.png</file>
+        <file>音乐(1).png</file>
+        <file>音乐(2).png</file>
+        <file>音乐(3).png</file>
+    </qresource>
+</RCC>

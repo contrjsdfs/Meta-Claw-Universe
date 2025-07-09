@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">元爪宇宙宠物房</string>
+    <string name="server_info">服务器信息</string>
+    <string name="sensor_data">环境监测</string>
+    <string name="device_control">设备控制</string>
+    <string name="communication_log">通信记录</string>
+    <string name="message_send">发送指令</string>
+    <string name="ip_address">IP地址</string>
+    <string name="status">运行状态</string>
+    <string name="client_connection">客户端连接</string>
+    <string name="client_ip">客户端IP</string>
+    <string name="temperature">温度</string>
+    <string name="humidity">湿度</string>
+    <string name="water_level">水位</string>
+    <string name="food_weight">食量</string>
+    <string name="light_intensity">光照</string>
+    <string name="wc_count">如厕</string>
+    <string name="turn_on_light">开灯</string>
+    <string name="turn_off_light">关灯</string>
+    <string name="open_door">开门</string>
+    <string name="close_door">关门</string>
+    <string name="send_message">发送</string>
+    <string name="message_hint">输入控制指令...</string>
+    <string name="server_not_running">服务器未启动</string>
+    <string name="server_running">服务器运行中 (端口: %d)</string>
+    <string name="connected">已连接 (总数: %d)</string>
+    <string name="not_connected">未连接</string>
+    <string name="unknown_ip">未知IP</string>
+    <string name="getting_ip">获取中...</string>
+    <string name="ip_unavailable">无法获取IP</string>
+    <string name="sensor_title">传感器监控</string>
+    <string name="video_title">视频监控</string>
+    <string name="chat_title">AI 助手</string>
+    <string name="type_message_hint">输入消息...</string>
+</resources>

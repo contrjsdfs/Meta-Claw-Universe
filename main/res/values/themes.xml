@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.MyApplication" parent="android:Theme.Material.Light.NoActionBar" />
+    <color name="pet_room_primary">#FF6B6B</color>
+    <color name="pet_room_secondary">#4ECDC4</color>
+    <color name="pet_room_background">#FFF5F5</color>
+    <color name="pet_room_surface">#FFFFFF</color>
+    <color name="pet_room_error">#FF6B6B</color>
+    <color name="pet_room_success">#4ECDC4</color>
+    <color name="pet_room_text_primary">#2D3436</color>
+    <color name="pet_room_text_secondary">#636E72</color>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- 背景颜色 -->
+        <item name="android:windowSplashScreenBackground" tools:ignore="NewApi">@color/ic_launcher_background</item>
+
+        <!-- 中心图标（矢量图） -->
+        <item name="android:windowSplashScreenAnimatedIcon" tools:ignore="NewApi">@drawable/ic_splash_logo</item>
+
+        <!-- 图标动画时长（毫秒） -->
+        <item name="android:windowSplashScreenAnimationDuration" tools:ignore="NewApi">500</item>
+
+        <!-- 启动完成后切换回主主题 -->
+        <item name="postSplashScreenTheme">@style/Theme.MyApplication</item>
+    </style>
+
+
+</resources>

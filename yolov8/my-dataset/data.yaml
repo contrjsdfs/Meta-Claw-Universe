@@ -1,0 +1,11 @@
+path: D:/大三下作业/嵌入式/ultralytics_yolov8-main/my-dataset
+train: ./images/train/
+val: ./images/valid/
+test: ./images/test/
+names:
+- Joy
+- Angry
+- Interest
+- Neutrality
+- Fear
+nc: 5
